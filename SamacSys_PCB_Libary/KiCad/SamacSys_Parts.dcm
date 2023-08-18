@@ -6,4 +6,10 @@ K
 F http://www.ti.com/lit/ds/symlink/ne555.pdf
 $ENDCMP
 #
+$CMP ATM13-12PA-R008
+D Automotive Connectors 1x12 SZ 20 A Key Tin Header Thermoplastic
+K
+F https://componentsearchengine.com/Datasheets/1/ATM13-12PA-R008.pdf
+$ENDCMP
+#
 #End Doc Library

@@ -12,4 +12,10 @@ K
 F https://componentsearchengine.com/Datasheets/1/ATM13-12PA-R008.pdf
 $ENDCMP
 #
+$CMP STM32G0B1RET6N
+D Mainstream Arm Cortex-M0+ 32-bit MCU, up to 512KB Flash, 144KB RAM, 6x USART, timers, ADC, DAC, comm. I/Fs, 1.7-3.6V
+K
+F https://www.st.com/resource/en/datasheet/stm32g0b1cc.pdf
+$ENDCMP
+#
 #End Doc Library
